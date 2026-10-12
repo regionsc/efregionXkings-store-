@@ -1,9 +1,9 @@
-# EFREGION Mobile Store
+# EFREGIONxKINGS STORE
 
 A mobile-first, static storefront designed for iOS and Android browsers, with an installable PWA foundation. Desktop is not a target; the layout is intentionally phone-focused.
 
 ## Configure WhatsApp
-Edit `app.js` and replace `91XXXXXXXXXX` in `WHATSAPP_NUMBER` with your business number in international format, digits only. For India, use 91 followed by the number, without `+`, spaces, or dashes.
+Edit `app.js` and replace `919656023500` in `WHATSAPP_NUMBER` with your business number in international format, digits only. For India, use 91 followed by the number, without `+`, spaces, or dashes.
 
 ## Update products
 Edit the `products` array in `app.js`. The shown products and prices are placeholders/demo content. Replace them with accurate listings you are permitted to sell before launch.
